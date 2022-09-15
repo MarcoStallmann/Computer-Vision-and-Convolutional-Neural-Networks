@@ -1,5 +1,7 @@
 # Computer-Vision
 
+*by Marco Stallmann*
+
 ## [Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/MarcoStallmann/Computer-Vision/blob/04ae0ed3cad36040b7d195c22bdb007b4aafe0c5/Implementing%20Callbacks%20in%20TensorFlow%20using%20the%20MNIST%20Dataset/Implementing_Callbacks_in_TensorFlow_using_the_MNIST_Dataset.ipynb)
 
 Here we are practicing classification MNIST which has items of handwriting -- the digits 0 through 9. We write an MNIST classifier that trains to 99% accuracy and stops once this threshold is achieved. 
@@ -12,4 +14,3 @@ For this exercise we see if we can improve MNIST to 99.5% accuracy or more by ad
 ## [Digit recognizer](https://github.com/MarcoStallmann/Computer-Vision/blob/main/Digit%20recognizer%20analysis/digit-recognizer-comparative-analysis.ipynb)
 
 In the Kaggle Digit Recognizer competition, the goal is to correctly identify digits from a dataset of tens of thousands of handwritten images (MNIST). Kaggle has curated a set of tutorial-style kernels which cover everything from regression to neural networks and encourages to experiment with different algorithms and are therefore incorporated into this Notebook with reference.
-
